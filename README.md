@@ -1,1 +1,1 @@
-# Credit_socre
+# Credit_score
